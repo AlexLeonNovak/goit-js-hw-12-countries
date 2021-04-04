@@ -34,5 +34,6 @@ module.exports = env => ({
     clientLogLevel: 'warning',
     stats: 'errors-only',
     open: true,
+    watchContentBase: true,
   },
 });

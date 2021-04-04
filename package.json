@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexLeonNovak/webpack5-starter-kit.git"
+    "url": "git+https://github.com/AlexLeonNovak/goit-js-hw-12-countries.git"
   },
   "keywords": [],
   "author": "AlexNovak <alexleonnovak@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlexLeonNovak/webpack5-starter-kit/issues"
+    "url": "https://github.com/AlexLeonNovak/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/AlexLeonNovak/webpack5-starter-kit#readme",
+  "homepage": "https://github.com/AlexLeonNovak/goit-js-hw-12-countries#readme",
   "devDependencies": {
     "@babel/core": "^7.13.1",
     "@babel/preset-env": "^7.13.5",
@@ -45,5 +45,10 @@
     "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^5.7.3",
     "webpackbar": "^5.0.0-3"
+  },
+  "dependencies": {
+    "core-js": "^3.10.0",
+    "lodash.debounce": "^4.0.8",
+    "toastr": "^2.1.4"
   }
 }
